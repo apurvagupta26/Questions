@@ -9,4 +9,4 @@
    return false;
  };
  
- console.log([1,3,5,7,0].custom_includes(5))
+ console.log([1,3,5,7,0].custom_includes(5));
