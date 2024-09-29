@@ -1,3 +1,5 @@
+<!-- call method invokes the function by taking the object on which the method has to be executed as first argument and accepts arguments which can be passed in that method like country in printName method. -->
+
 let person = {
   firstname: "Apurva",
   lastname: "Gupta"
